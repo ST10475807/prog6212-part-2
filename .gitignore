@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/.browse.VC.db
+.vscode/.suo
+*.user
+*.suo
+appsettings.Local.json
